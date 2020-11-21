@@ -7,9 +7,9 @@ Using ESP32 extra serial communication from HardwareSerial
 #### 3. Much of the code is from the Example file in ODriveArduino Examples: **ODriveArduinoTest**
  * 
 #### [odriverobotics forum]: https://discourse.odriverobotics.com/t/esp32-odrive-communication-solved/3422/4
-
+<pre>
  **PIN | ESP32 | ODrive**
  **RX** |    16 |  2
  **TX** |    17 |  1
  **GND** |   GND | GND
- 
+</pre>
