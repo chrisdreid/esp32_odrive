@@ -8,8 +8,8 @@ Using ESP32 extra serial communication from HardwareSerial
 
 #### [odriverobotics forum]: https://discourse.odriverobotics.com/t/esp32-odrive-communication-solved/3422/4
 <pre>
- <text color="#FF0000">PIN | ESP32 | ODrive</text>
- **RX** |    16 |  2
- **TX** |    17 |  1
- **GND** |   GND | GND
+ PIN | ESP32 | ODrive
+ RX |    16 |  2
+ TX |    17 |  1
+ GND |   GND | GND
 </pre>
