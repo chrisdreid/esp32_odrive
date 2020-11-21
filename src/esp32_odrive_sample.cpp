@@ -1,4 +1,5 @@
 /*
+ * Author: Chris Reid 2019.10.12
  * We are going to use the ESP32 extra serial communication from HardwareSerial
  * ** https://hackaday.com/2017/08/17/secret-serial-port-for-arduinoesp32/
  * ** https://youtu.be/GwShqW39jlE
