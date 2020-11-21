@@ -13,3 +13,6 @@ Using ESP32 extra serial communication from HardwareSerial
  TX  |    17 |  1
  GND |   GND | GND
 </pre>
+
+# Configurations
+<img src="./images/61901621e54c834ef08fe53a15bbd1cd50fd692f.png">
